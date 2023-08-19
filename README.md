@@ -19,7 +19,7 @@ The Pizza Billing Master is an open-source project designed to simplify and stre
 # Getting Started
 To get started with the Pizza Billing Master, follow these steps:
 
-Clone the repository to your local machine using git clone https://github.com/yourusername/pizza-billing-master.git.
+Clone the repository to your local machine using git clone https://github.com/UmeshGuptaIndia1994/pizza-billing-master.git.
 
 Navigate to the project directory: cd pizza-billing-master.
 
